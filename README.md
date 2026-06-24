@@ -2,13 +2,12 @@
 
 <!-- ── CUSTOM BANNER ────────────────────────────────────────────────────────── -->
 
-<img src="assets/banner.gif" width="100%" alt="Rajat Sharma Banner"/>
+<img src="banner.png" width="100%" alt="Rajat Sharma Banner"/>
 
 <br>
 
-<!-- ── TYPING INTRO ─────────────────────────────────────────────────────────── -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=850&lines=Building+AI+Products+That+Solve+Real+Problems;RAG+%7C+OCR+%7C+Automation+%7C+LLMs;FastAPI+%7C+React+%7C+Java+%7C+Python;Learning+Spring+Boot+and+System+Design;Future+Software+Engineer" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=850&lines=🚀+Building+AI+Products+That+Solve+Real+Problems;🤖+RAG+%7C+OCR+%7C+Automation+%7C+LLMs;⚡+FastAPI+%7C+React+%7C+Java+%7C+Python;🧠+Learning+Spring+Boot+%26+System+Design;🎯+Future+Software+Engineer" alt="Typing SVG" />
 
 <br><br>
 
@@ -362,7 +361,7 @@ LLM Fine-tuning  ████░░░░░░░░  30%  [ Experiments live  
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
 
 <sub>⭐ <em>If any of my projects helped you, a star would mean a lot!</em> ⭐</sub>
 
