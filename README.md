@@ -350,6 +350,11 @@ LLM Fine-tuning  ████░░░░░░░░  30%  [ Experiments live  
 </a>
 
 <br/><br/>
+---
+
+<p align="center">
+  <img src="./footer.svg" width="100%" />
+</p>
 
 *Open to internships, collaborations, AI project discussions, and good conversations about tech.*
 
