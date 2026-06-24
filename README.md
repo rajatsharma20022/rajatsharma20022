@@ -1,57 +1,67 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                     RAJAT SHARMA — GITHUB PROFILE README                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- ── HEADER BANNER ─────────────────────────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=220&section=header&text=Rajat%20Sharma&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20DSA%20Grinder&descSize=17&descAlignY=60&descColor=8b949e" width="100%" alt="header" />
+<!-- ── CUSTOM BANNER ────────────────────────────────────────────────────────── -->
 
-<!-- ── TYPING INTRO ───────────────────────────────────────────────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Building+AI+products+that+actually+work+%F0%9F%9A%80;RAG+%7C+LLMs+%7C+Vector+DBs+%7C+OCR+Systems+%F0%9F%A7%A0;Automating+everything+that+can+be+automated+%E2%9A%A1;DSA+%7C+System+Design+%7C+Full-Stack+Dev+%F0%9F%92%A1;B.Tech+IT+%E2%86%92+Top-tier+Software+Engineer+%F0%9F%8E%AF" alt="Typing SVG" />
+<img src="assets/banner.gif" width="100%" alt="Rajat Sharma Banner"/>
 
-<br/><br/>
+<br>
 
-<!-- ── PROFILE VIEWS + SOCIAL BADGES ─────────────────────────────────────────── -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rajatsharma&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="profile views" />
-</p>
-<p>
-  <a href="https://linkedin.com/in/rajatsharma"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:rajatsharma@email.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://leetcode.com/rajatsharma"><img src="https://img.shields.io/badge/LeetCode-Grind-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  &nbsp;
-  <a href="https://pdfanswermyquestion.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Project-Try%20It-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
-</p>
+<!-- ── TYPING INTRO ─────────────────────────────────────────────────────────── -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=850&lines=🚀+Building+AI+Products+That+Solve+Real+Problems;🤖+RAG+%7C+OCR+%7C+Automation+%7C+LLMs;⚡+FastAPI+%7C+React+%7C+Java+%7C+Python;🧠+Learning+Spring+Boot+%26+System+Design;🎯+Future+Software+Engineer" alt="Typing SVG" />
+
+<br><br>
+
+### 💡 DSA • System Design • Full-Stack Development • AI & Automation
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+  <img src="https://img.shields.io/badge/LeetCode-Grind-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/rajatsharma20022">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://pdfanswermyquestion.streamlit.app/">
+  <img src="https://img.shields.io/badge/Live%20Project-Try%20It-8A2BE2?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=rajatsharma20022&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
+<div>
+  ## 👋 About Me
 
----
+Hi, I'm **Rajat Sharma**, a B.Tech Information Technology student passionate about building software that solves real-world problems.
 
-<!-- ── ABOUT ME ────────────────────────────────────────────────────────────────── -->
+* 🤖 Interested in **Artificial Intelligence, Automation, and Backend Development**
+* 💻 Building projects with **Java, Python, React, FastAPI, and AI technologies**
+* 🧠 Experienced with **RAG Systems, OCR Pipelines, Vector Databases, and LLM Integrations**
+* 🚀 Built applications used by students, including AI-powered educational tools and workflow automations
+* 📚 Currently learning **Spring Boot, Advanced DSA, and System Design**
+* 🎯 Aspiring Software Engineer focused on creating scalable and impactful products
 
-## 🧑‍💻 About Me
+### Recent Projects
 
-```python
-# B.Tech IT · AI Engineer · Full-Stack Dev · DSA Grinder
+* 📬 **Placement Mail Tracker** — Gmail + Gemini AI + Notion Automation
+* 📝 **AI Answer Sheet Evaluator** — OCR-based automated grading system
+* 🧠 **Syllabus AI Assistant** — RAG-powered PDF question answering platform
 
-rajat = {
-  "role"     : "Software Engg. Student  →  Future SWE @ Top Tech 🚀",
-  "stack"    : "Python · Java · FastAPI · React · LangChain · pgvector",
-  "shipped"  : [
-    "🧠 RAG chatbot — live on Streamlit Cloud, used by real students",
-    "📝 OCR + AI grader — reads handwritten sheets, outputs Excel marks",
-    "📬 Gmail → Gemini AI → Notion agent — 0 manual clicks, fully automated",
-  ],
-  "learning" : "Spring Boot  ·  Advanced DSA  ·  System Design",
-  "seeking"  : "Internships · Collabs · Top-tier SWE Roles 🎯",
-  "mantra"   : "If I do it twice → I automate it. Then I make it smarter. 🤖",
-}
-```
+> *"If a task can be automated, it should be automated."*
 
-<br/>
+</div>
 
 <!-- ── SKILLS ──────────────────────────────────────────────────────────────────── -->
 
